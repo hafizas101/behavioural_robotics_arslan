@@ -1,0 +1,5 @@
+NoveltyItem: id: 667, at generation: 2, fitness: 1.000000, novelty: 27.636482	data: [33.934540514989585, 17.986177806003344]
+NoveltyItem: id: 852, at generation: 2, fitness: 1.000000, novelty: 27.115385	data: [35.537779397858515, 19.33732052294437]
+NoveltyItem: id: 944, at generation: 2, fitness: 1.000000, novelty: 27.386157	data: [33.7453632612842, 22.262749360436263]
+NoveltyItem: id: 778, at generation: 2, fitness: 0.378554, novelty: 0.214480	data: [64.03343983078162, 60.824097682417325]
+NoveltyItem: id: 788, at generation: 2, fitness: 0.378482, novelty: 0.217708	data: [64.00394402526098, 60.855781841542544]
